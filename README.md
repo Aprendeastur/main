@@ -1,8 +1,8 @@
 # <span style="color: blue; font-size: 3em;">AprendeAstur</span>
 
-![Banner](https://drive.google.com/uc?id=1PStAyAZQpKONvWzKslquM4Kjv6-vbLbf)
+![Banner](https://github.com/Aprendeastur/main/blob/b499d23d0f70f05f1a72151c41e5acfe1ecf79f6/banner/17.png)
 
-<span style="color: black;">.</span>
+<span style="color: black;"></span>
 Enlaces a los videotutoriales del curso de Python para la preperación del Curso de especialización de Desarrollo de aplicaciones en lenguaje Python
 Temario oficial del Ministerio disponible en https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/ce-lenguaje-phyton.html 
 
