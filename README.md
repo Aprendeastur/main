@@ -4,10 +4,11 @@
 
 <span style="color: black;"></span>
 Enlaces a los videotutoriales del curso de Python para la preperación del Curso de especialización de Desarrollo de aplicaciones en lenguaje Python
-Temario oficial del Ministerio disponible en https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/ce-lenguaje-phyton.html 
+Temario oficial del Ministerio disponible en [TodoFP](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/ce-lenguaje-phyton.html)
+Por otra parte recuerde que los cuadernos de Jupyter se colgarán cuando proceda, en la carpeta correspondiente de su [repositorio](https://github.com/Aprendeastur/main/edit/main/README.md)   
 
 # <span style="color: blue; font-size: 2em;">Presentación</span> 
-[![Video de Presentación](https://img.youtube.com/vi/0RL8g58Cp2o/maxresdefault.jpg)](https://www.youtube.com/watch?v=0RL8g58Cp2o)
+[![Video de Presentación](https://img.youtube.com/vi/H3JjDgCygAs/maxresdefault.jpg)](https://www.youtube.com/watch?v=H3JjDgCygAs)
 
 
 
