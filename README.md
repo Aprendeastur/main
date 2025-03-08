@@ -15,7 +15,7 @@ Por otra parte recuerde que los cuadernos de Jupyter se colgarán cuando proceda
 # <span style="color: blue; font-size: 2em;">Entornos y sintaxis en Python</span>
 
 Video 01: Aspectos fundamentales (https://youtu.be/s56nBdCUrLA)  
-Complemento formativo: Introdución a la arquitectura de computadores (https://youtu.be/0DqL5Wr44Wk)  
+Complemento formativo: Introdución a la arquitectura de computadores (https://youtu.be/p_NwanXG4vY)  
 <span style="color: black;">Video 02: Entornos de desarrollo (IDE) y marcos (Frameworks).</span>  
 <span style="color: black;">Video 03: Instrucciones y Buenas Praxis.</span>  
 <span style="color: black;">Video 04: Arquitectura de Hardware: Memoria, CPU y Northbridge.</span>  
