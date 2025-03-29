@@ -17,7 +17,7 @@ Por otra parte recuerde que los cuadernos de Jupyter se colgarán cuando proceda
 Video 01: Aspectos fundamentales (https://youtu.be/s56nBdCUrLA)  
 Complemento formativo: Introdución a la arquitectura de computadores (https://youtu.be/p_NwanXG4vY)  
 <span style="color: black;">Video 02: Entornos de desarrollo (IDE) y marcos (Frameworks).</span> (https://youtu.be/E1N5EEGeCE8)  
-Práctica 01: Instalando visual studio Code para Python y C, con nVidia Nsight
+Práctica 01: Instalando visual studio Code para Python (https://youtu.be/49rDgG4n1fk)  y C, con nVidia Nsight  
 <span style="color: black;">Video 03: Instrucciones y Buenas Praxis.</span>  
 <span style="color: black;">Video 04: Arquitectura de Hardware: Memoria, CPU y Northbridge.</span>  
 <span style="color: black;">Video 05: Tipos de datos, variables e identificadores.</span>  
